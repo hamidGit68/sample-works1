@@ -1,0 +1,70 @@
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:root {
+    --co2: rgba(142,100,200, .5);
+    --co3: #b401ee;
+    --co6: #bb01a8;
+    --co4: #40789c;
+    --co5: rgba(25, 210, 210, .8);
+}
+
+body {
+    background-color: var(--co2);
+    font-family: 'Alatsi', sans-serif;
+}
+
+.headerPart {
+    text-align: center;
+    color: var(--co3);
+}
+
+.headerPart h1 {
+    text-shadow: 1px -2px 6px var(--co2);
+    padding-top: 72px;
+    padding-bottom: 15px;
+}
+
+.linksPart {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 125px;
+    margin: 45px auto;
+    width: 85%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.linksPart a {
+    background-color: var(--co5);
+    color: var(--co4);
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 8px 15px;
+    transition: .5s;
+}
+
+.linksPart a:hover {
+    color: var(--co5);
+    box-shadow: 2px 2px 4px var(--co2);
+    background-color: var(--co4);
+}
+
+.tagCopy {
+    font-family: 'Sail', cursive;
+    color: var(--co6);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#yearId, .tagCopy a {
+    color: var(--co3);
+    font-size: 1rem;
+    text-decoration: none;
+}

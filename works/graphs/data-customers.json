@@ -1,0 +1,27 @@
+{
+    "id": "001",
+    "category": "کتب برنامه نویسی",
+    "title": "زبان برنامه نویسی سی پلاس",
+    "months": {
+        "firstMonth": {
+                "upper80": 1543,
+                "bet40and80": 1400,
+                "below40": 750
+            },
+        "secondMonth": {
+                "upper80": 1450, 
+                "bet40and80": 1050, 
+                "below40": 598 
+            },
+        "thirdMonth": {
+                "upper80": 1780, 
+                "bet40and80": 1000,
+                "below40": 478
+            },
+        "fourthMonth": {
+                "upper80": 2150,
+                "bet40and80": 1780,
+                "below40": 278
+            }
+    }
+}

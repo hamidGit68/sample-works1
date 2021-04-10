@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booksdata>
+<book>
+    <id>001</id>
+    <title>Simplifying JavaScript</title>
+    <author>Joe Morgan</author>
+    <descript>The best modern JavaScript is simple, readable, and predictable. Learn to write modern JavaScript not by memorizing a list of new syntax, but with practical examples of how syntax changes can make code more expressive. Starting from variable declarations that communicate intention clearly, see how modern principles can improve all parts of code. Incorporate ideas with curried functions, array methods, classes, and more to create code that does more with less while yielding fewer bugs.</descript>
+    <year>2018</year>
+    <pages>284</pages>
+    <format>pdf</format>
+</book>
+
+<book>
+    <id>002</id>
+    <title>Eloquent JavaScript</title>
+    <author>Marijn Haverbeke</author>
+    <descript>JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.</descript>
+    <year>2018</year>
+    <pages>472</pages>
+    <format>pdf</format>
+</book>
+
+<book>
+    <id>003</id>
+    <title>Learning PHP, MySQL and JavaScript: With jQuery, CSS and HTML5</title>
+    <author>Robin Nixon</author>
+    <descript>Build interactive, data driven websites with the potent combination of open source technologies and web standards, even if you have only basic HTML knowledge. In this update to this popular hands on guide, you’ll tackle dynamic web programming with the latest versions of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and key jQuery libraries.</descript>
+    <year>2018</year>
+    <pages>832</pages>
+    <format>kindle</format>
+</book>
+
+<book>
+    <id>004</id>
+    <title>The C++ Programming Language</title>
+    <author>Bjarne Stroustrup</author>
+    <descript>This book features an enhanced, layflat binding, which allows the book to stay open more easily when placed on a flat surface. This special binding method—noticeable by a small space inside the spine—also increases durability. C++11 has arrived: thoroughly master it, with the definitive new guide from C++ creator Bjarne Stroustrup, C++ Programming Language, Fourth Edition! The brand-new edition of the worlds most trusted and widely read guide to C++, it has been comprehensively updated for the long-awaited C++11 standard.</descript>
+    <year>2013</year>
+    <pages>1376</pages>
+    <format>hard-copy</format>
+</book>
+
+<book>
+    <id>005</id>
+    <title>Design Is Storytelling</title>
+    <author>Ellen Lupton</author>
+    <descript>Good design, like good storytelling, brings ideas to life. The latest book from award-winning writer Ellen Lupton is a playbook for creative thinking, showing designers how to use storytelling techniques to create satisfying graphics, products, services and experiences. Whether crafting a digital app or a data-rich publication, designers invite people to enter a scene and explore what’s there. An intriguing logo, page layout or retail space uses line, shape and form to lead users on dynamic journeys.</descript>
+    <year>2017</year>
+    <pages>160</pages>
+    <format>pdf</format>
+</book>
+
+<book>
+    <id>006</id>
+    <title>The Age of Sustainable Development</title>
+    <author>Jeffrey D. Sachs</author>
+    <descript>Jeffrey D. Sachs is one of the world's most perceptive and original analysts of global development. In this major new work he presents a compelling and practical framework for how global citizens can use a holistic way forward to address the seemingly intractable worldwide problems of persistent extreme poverty, environmental degradation, and political-economic injustice: sustainable development.</descript>
+    <year>2015</year>
+    <pages>544</pages>
+    <format>hard-copy</format>
+</book>
+
+<book>
+    <id>007</id>
+    <title>Essential MATLAB for Engineers and Scientists</title>
+    <author>Brian Hahn</author>
+    <descript>Essential MATLAB for Engineers and Scientists, Seventh Edition, provides a concise, balanced overview of MATLAB's functionality, covering both fundamentals and applications. The essentials are illustrated throughout, featuring complete coverage of the software's windows and menus. Program design and algorithm development are presented, along with many examples from a wide range of familiar scientific and engineering areas. This edition has been updated to include the latest MATLAB versions through 2018b.</descript>
+    <year>2019</year>
+    <pages>428</pages>
+    <format>epub</format>
+</book>
+
+<book>
+    <id>008</id>
+    <title>Don't Make Me Think</title>
+    <author>Steve Krug</author>
+    <descript>Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.</descript>
+    <year>2014</year>
+    <pages>216</pages>
+    <format>pdf</format>
+</book>
+
+<book>
+    <id>009</id>
+    <title>Building Websites All-in-One For Dummies</title>
+    <author>David Karlins</author>
+    <descript>Ten minibooks in one! The perfect reference for beginning web builders This hefty, 800+ page book is your start-to-finish roadmap for building a web site for personal or professional use. Even if you're completely new to the process, this book is packed with everything you need to know to build an attractive, usable, and working site.</descript>
+    <year>2012</year>
+    <pages>816</pages>
+    <format>pdf</format>
+</book>
+
+
+<book>
+    <id>010</id>
+    <title>CSS Secrets</title>
+    <author>Lea Verou</author>
+    <descript>In this practical guide, CSS expert Lea Verou provides 47 undocumented techniques and tips to help intermediate-to advanced CSS developers devise elegant solutions to a wide range of everyday web design problems. Rather than focus on design, CSS Secrets shows you how to solve problems with code. You'll learn how to apply Lea's analytical approach to practically every CSS problem you face to attain DRY, maintainable, flexible, lightweight, and standards-compliant results.</descript>
+    <year>2015</year>
+    <pages>392</pages>
+    <format>pdf</format>
+</book>
+
+<book>
+    <id>011</id>
+    <title>PHP and MySQL Web Development</title>
+    <author>Luke Welling</author>
+    <descript>PHP and MySQL are popular open-source technologies that are ideal for quickly developing database-driven Web applications. PHP is a powerful scripting language designed to enable developers to create highly featured Web applications quickly, and MySQL is a fast, reliable database that integrates well with PHP and is suited for dynamic Internet-based applications.</descript>
+    <year>2016</year>
+    <pages>688</pages>
+    <format>epub</format>
+</book>
+
+
+
+
+<book>
+    <id>012</id>
+    <title>MATLAB: A Practical Introduction to Programming and Problem Solving</title>
+    <author>Stormy Attaway</author>
+    <descript>MATLAB: A Practical Introduction to Programming and Problem Solving, winner of TAA’s 2017 Textbook Excellence Award ("Texty"), guides the reader through both programming and built-in functions to easily exploit MATLAB's extensive capabilities for tackling engineering and scientific problems. Assuming no knowledge of programming, this book starts with programming concepts, such as variables, assignments, and selection statements, moves on to loops, and then solves problems using both the programming concept and the power of MATLAB.</descript>
+    <year>2018</year>
+    <pages>626</pages>
+    <format>pdf</format>
+</book>
+
+
+</booksdata>
