@@ -13,7 +13,7 @@
     "web"
   ],
   "author": "hamid davodi",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
