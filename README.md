@@ -19,7 +19,7 @@ This is the codes of some of my sample works, just for exercise. The codes conta
 * Bootstrap4
 * Ajax
 ### Slider jQ
-> The slider here is made with **fade methods** of jQuery library. The good point about this slider is that at first the page is loading _without_ any image and during the slider run **only two** images are present in HTML file.
+> The slider here is made with **fade methods** of jQuery library. The good point about this slider is that at first the page is loading _without_ any image and during the slider running **only two** images are present in HTML file. If the slider is not running smoothly, refresh the page.
 #### Used Technologies
 * jQuery
 * javascript
